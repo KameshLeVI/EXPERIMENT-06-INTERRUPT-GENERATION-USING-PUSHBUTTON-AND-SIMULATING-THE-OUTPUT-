@@ -290,7 +290,7 @@ void assert_failed(uint8_t *file, uint32_t line)
   /* USER CODE END 6 */
 }
 #endif /* USE_FULL_ASSERT */
-
+```
 
 ## Output screen shots of proteus  :
  ![image](https://github.com/user-attachments/assets/db399402-7090-45ab-a9bc-80ec3974e208)
